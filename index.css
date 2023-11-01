@@ -1,0 +1,54 @@
+.nav-link {
+  color: #3f812a;
+  text-decoration: none;
+}
+
+main {
+  max-width: 600px;
+  width: 100%;
+  margin-top: 24px;
+  margin-bottom: 24px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+section {
+  margin: 24px 0;
+  padding: 16px;
+}
+
+#title {
+  font-size: 40px;
+  font-weight: 800;
+}
+
+.d-inline {
+  display: inline;
+}
+
+#catimage {
+  border: 5px solid #3f812a;
+  width: 200px;
+  height: 200px;
+  margin: 32px auto;
+  display: block; 
+  background-image: url(./images/funnycat.gif);
+  background-size: cover; 
+  border-radius: 9999px;
+  background-position: 50%;
+}
+
+nav > ul {
+  list-style: none;
+}
+
+body {
+  margin: 0;
+  background-color: #222;
+  color: #eee;
+}
+
+.text-center {
+  text-align: center;
+}
+
