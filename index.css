@@ -1,5 +1,5 @@
 .nav-link {
-  color: #3f812a;
+  color: #d37f1f;
   text-decoration: none;
 }
 
@@ -27,7 +27,7 @@ section {
 }
 
 #catimage {
-  border: 5px solid #3f812a;
+  border: 5px solid #d37f1f;
   width: 200px;
   height: 200px;
   margin: 32px auto;
